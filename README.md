@@ -12,6 +12,7 @@ pinned: false
 # 🦟 AI-Based Early Warning System for Dengue Case Prediction
 
 > Explainable Dengue Early Warning System Using Meteorological Data and Machine Learning
+LINK: https://huggingface.co/spaces/Alfaro131/dengue-prediction
 
 ---
 
